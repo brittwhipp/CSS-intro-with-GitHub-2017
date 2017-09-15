@@ -37,9 +37,9 @@ figure {
 /* add your pseudo classes below this line */
 
 a:link { color: #06039E; }
-a:visited { color: #513C87; }
+a:visited { color: #41044C; }
 a:focus { color: #176CFF; }
-a:hover { color: #04E80B; }
+a:hover { color: #005204; }
 a:active { color: #F95A2D; }
 
 footer a:link { color: #100087; }
